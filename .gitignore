@@ -1,6 +1,9 @@
 # OSX specific
 .DS_Store
 
+# Emacs
+*.cpp~
+
 # Prerequisites
 *.d
 
